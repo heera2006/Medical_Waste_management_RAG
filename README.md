@@ -1,0 +1,1 @@
+# Medical_Waste_management_RAG
